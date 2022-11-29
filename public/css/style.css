@@ -1,0 +1,15 @@
+body {
+    background-color: #DEB887;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+}
+
+div {
+    background-color: #FF4500;
+    margin: 5px;
+    padding: 2%;
+    margin-top: 20%;
+}
